@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AVuPhan but you can call me Mr. Phan
+- 👀 I have my old projects posted on here
+- 🌱 I’m currently enrolled in school studying CS
+- 📫 You can contact me by putting your msg in a bottle and throwing it in the sea

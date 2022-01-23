@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AVuPhan but you can call me Mr. Phan
-- 👀 I have my old projects posted on here
-- 🌱 I’m currently enrolled in school studying CS
-- 📫 You can contact me by putting your msg in a bottle and throwing it in the sea
+- 👋 Hello my name is Andy Phan
+- 🌱 I’m currently enrolled in school studying CS at the University of St. Thomas
+- 👀 I have my old projects posted on here. Please feel free to look at my work

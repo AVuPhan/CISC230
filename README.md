@@ -1,3 +1,3 @@
 - 👋 Hello my name is Andy Phan
-- 🌱 I’m currently enrolled in school studying CS at the University of St. Thomas
-- 👀 I have my old projects posted on here. Please feel free to look at my work
+- 🌱 I’m currently in college studying CS at the University of St. Thomas
+- 👀 So far I have my class projects posted on here. Please feel free to look at my work

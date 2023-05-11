@@ -1,3 +1,1 @@
-- 👋 Hello my name is Andy Phan
-- 🌱 I’m currently in college studying CS at the University of St. Thomas
-- 👀 So far I just have my class projects posted on here. Please feel free to look at my work
+CISC 230 homework
